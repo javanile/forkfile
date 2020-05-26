@@ -1,1 +1,2 @@
 COPY .debug.yml
+COPY aa
