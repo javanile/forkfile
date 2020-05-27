@@ -3,4 +3,5 @@ COPY .editorconfig
 
 DEBUG COPY base1.txt base1_new.txt
 DEBUG COPY base2.txt ${GDMSESSION}.txt
+COPY base2.txt ${GDMSESSION}.txt
 
