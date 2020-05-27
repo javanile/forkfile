@@ -1,7 +1,8 @@
+
 COPY Makefile
 COPY .editorconfig
 
 DEBUG COPY base1.txt base1_new.txt
-DEBUG COPY base2.txt ${GDMSESSION}.txt
+DEBUG COPY base2.txt ${FORKFILE}.txt
 COPY base2.txt ${GDMSESSION}.txt
 
