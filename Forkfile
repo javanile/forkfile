@@ -1,2 +1,5 @@
 COPY .debug.yml
 COPY aa
+MKDIR
+
+.gitignore .idea/
