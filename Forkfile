@@ -1,2 +1,2 @@
-COPY .debug.yml
-COPY aa
+COPY Makefile
+COPY .editorconfig
