@@ -1,5 +1,6 @@
-COPY .debug.yml
-COPY aa
-MKDIR
+COPY Makefile
+COPY .editorconfig
 
-.gitignore .idea/
+DEBUG COPY base1.txt base1_new.txt
+DEBUG COPY base2.txt ${BASENAME}.txt
+
