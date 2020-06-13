@@ -10,7 +10,7 @@ DEBUG Forkfile[from]: ${Forkfile_name}
 #DEBUG FORKFILE_REMOTE_DIRNAME: ${FORKFILE_REMOTE_BASENAME}
 #DEBUGùàOI'  FORKFILE_REMOTE_BASENAME: ${FORKFILE_REMOTE_BASENAME}
 
-COPY base2.txt ${Forkfile.name}.txt
+#COPY base2.txt ${Forkfile.name}.txt
 
-HASLINE .gitignore var/logs/
-W33334REFFFFFFFFFFFF45U
+#HASLINE .gitignore var/logs/
+#W33334REFFFFFFFFFFFF45U
