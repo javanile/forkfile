@@ -3,7 +3,7 @@ DUMP
 
 COPY Makefile
 COPY .editorconfig
-
+MERGE Makefile
 
 DEBUG Forkfile[from]: ${Forkfile_name}
 #DEBUG FORKFILE_LOCAL_BASENAME: ${FORKFILE_LOCAL_BASENAME}
