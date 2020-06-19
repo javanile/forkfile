@@ -3,6 +3,7 @@ DUMP
 
 COPY Makefile
 COPY .editorconfig
+COPY .github/workflows/super-linter.yml
 MERGE Makefile
 
 DEBUG Forkfile[from]: ${Forkfile_name}
