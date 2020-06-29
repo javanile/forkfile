@@ -6,3 +6,6 @@ push:
 	git add .
 	git commit -am "push"
 	git push
+
+fork:
+	curl -sL git.io/fork.sh | bash -
