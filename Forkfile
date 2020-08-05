@@ -5,4 +5,4 @@ MERGE .gitignore
 MERGE Makefile
 
 ## Ignore this lines
-COPY HARDFILE
+COPY HARD
