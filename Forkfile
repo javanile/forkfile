@@ -3,3 +3,6 @@ COPY .github/workflows/super-linter.yml
 
 MERGE .gitignore
 MERGE Makefile
+
+## Ignore this lines
+COPY HARDFILE
